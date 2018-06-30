@@ -1,2 +1,2 @@
 # Python-Assignment-24
-Python Assignment 24 -> Logistic Regression basic model building process
+Python Assignment 24 -> Decision Tree basic model building process
